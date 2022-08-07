@@ -2,7 +2,8 @@
 $MFT 0~15 Entry, Registry Collection with VSS
 
 ```
-Works only in NTFS environments 
+!!! Works only in NTFS environments 
+!!! Requires administrator privileges
 ```
 
 ```
